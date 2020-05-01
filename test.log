@@ -1,0 +1,553 @@
+2020年 4月30日 星期四 15时29分56秒 CST
+Darwin macdeMacBook-Pro.local 19.2.0 Darwin Kernel Version 19.2.0: Sat Nov  9 03:47:04 PST 2019; root:xnu-6153.61.1~20/RELEASE_X86_64 x86_64
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro15,2
+      Processor Name: Quad-Core Intel Core i5
+      Processor Speed: 2.3 GHz
+      Number of Processors: 1
+      Total Number of Cores: 4
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 6 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 8 GB
+      Boot ROM Version: 1037.60.58.0.0 (iBridge: 17.16.12551.0.0,0)
+      Serial Number (system): C02X24T8JHC8
+      Hardware UUID: 9F9D52C1-1366-5C27-87BA-AD625E444B2A
+      Activation Lock Status: Enabled
+
+15:33  up 131 days, 19:31, 2 users, load averages: 1.99 1.51 1.05
+PID	Status	Label
+-	0	com.apple.SafariHistoryServiceAgent
+14205	-9	com.apple.progressd
+-	0	com.google.keystone.user.xpcservice
+14216	-9	com.apple.cloudphotod
+359	0	com.apple.Finder
+14204	-9	com.apple.homed
+-	-9	com.apple.SafeEjectGPUAgent
+-	0	com.apple.quicklook
+-	0	com.apple.parentalcontrols.check
+-	0	com.apple.PackageKit.InstallStatus
+469	0	com.apple.mediaremoteagent
+-	0	com.apple.FontWorker
+372	0	com.apple.bird
+-	0	com.apple.amp.mediasharingd
+-	0	com.apple.familycontrols.useragent
+-	0	com.apple.AssetCache.agent
+5466	0	com.dwarvesv.minimalbar.6964
+36862	0	com.apple.universalaccessAuthWarn
+368	0	com.apple.nsurlsessiond
+45784	-9	com.apple.devicecheckd
+-	0	com.apple.syncservices.uihandler
+14161	-9	com.apple.iconservices.iconservicesagent
+-	0	com.apple.ContactsAgent
+14203	-9	com.apple.SafariBookmarksSyncAgent
+-	0	com.apple.ManagedClientAgent.agent
+-	0	com.apple.localizationswitcherd
+-	0	com.apple.screensharing.agent
+455	0	com.apple.commerce
+-	0	com.apple.TMHelperAgent.SetupOffer
+-	0	com.apple.AddressBook.SourceSync
+-	0	com.apple.installerauthagent
+-	0	com.apple.languageassetd
+-	0	com.apple.familynotificationd
+14183	-9	com.apple.photolibraryd
+-	0	com.apple.xpc.otherbsd
+-	0	com.apple.sysdiagnose_agent
+97552	-9	com.apple.TextInputMenuAgent
+-	0	com.apple.bluetoothUIServer
+-	0	com.apple.universalaccessHUD
+-	0	com.apple.assistant_service
+-	0	com.apple.MRTa
+-	0	com.apple.touristd
+398	0	com.apple.CommCenter
+354	0	com.apple.trustd.agent
+-	0	com.apple.MailServiceAgent
+-	0	com.apple.mdworker.mail
+24909	0	com.apple.mdworker.shared.0C000000-0400-0000-0000-000000000000
+-	0	com.apple.appkit.xpc.ColorSampler
+24908	0	com.apple.mdworker.shared.0D000000-0600-0000-0000-000000000000
+344	0	com.apple.cfprefsd.xpc.agent
+-	0	com.apple.coreimportd
+14194	-9	com.apple.TrustedPeersHelper
+24884	0	com.apple.mdworker.shared.0E000000-0700-0000-0000-000000000000
+-	0	com.apple.DataDetectorsLocalSources
+-	0	com.apple.unmountassistant.useragent
+-	0	com.apple.java.InstallOnDemand
+14275	-9	com.apple.keyboardservicesd
+14712	-9	com.apple.quicklook.ThumbnailsAgent
+-	0	com.apple.csuseragent
+405	0	com.apple.ContextStoreAgent
+-	0	com.apple.AOSPushRelay
+3516	0	com.tencent.qq.6652
+423	0	com.apple.SocialPushAgent
+-	0	com.apple.accessibility.AXVisualSupportAgent
+54662	-9	com.apple.xpc.loginitemregisterd
+4217	-9	com.apple.applespell
+-	0	com.apple.coreservices.UASharedPasteboardProgressUI
+-	0	com.tencent.Lemon.trash
+14313	-9	com.apple.corespotlightservice.4DD6D074-1E85-0660-771E-BD4DC8170998
+-	0	com.apple.screensharing.menuextra
+14180	-9	com.apple.AddressBook.ContactsAccountsService
+-	0	com.apple.warmd_agent
+14252	0	com.apple.xpc.launchd.oneshot.0x10000711.QuickTime Player
+-	0	com.apple.universalaccesscontrol
+14085	-9	com.apple.Safari.SafeBrowsing.Service
+-	0	com.apple.findmymacmessenger
+-	0	com.apple.FilesystemUI
+69561	-9	com.apple.ScreenTimeAgent
+-	0	com.apple.pluginkit.pkreporter
+-	0	com.apple.systemprofiler
+360	0	com.apple.cloudd
+50433	-9	com.apple.noticeboard.agent
+-	0	com.apple.UserNotificationCenterAgent
+-	0	com.apple.cmfsyncagent
+-	0	com.apple.dt.CommandLineTools.installondemand
+-	0	com.apple.ATS.FontValidator
+437	0	com.apple.diagnostics_agent
+-	0	com.apple.appleseed.seedusaged
+97571	-9	com.apple.LocalAuthentication.UIAgent
+14695	-9	com.apple.ap.adprivacyd
+-	0	com.apple.PhotoLibraryMigrationUtility.XPC
+-	-9	com.apple.apfsuseragent
+24577	-9	com.apple.networkserviceproxy
+55182	0	com.apple.AMPLibraryAgent
+-	0	com.openssh.ssh-agent
+-	0	com.apple.atsd
+-	0	com.apple.tonelibraryd
+14174	-9	com.apple.CloudPhotosConfiguration
+-	0	com.apple.mdworker.bundles
+54612	-9	com.apple.ctkd
+14144	-9	com.apple.secinitd
+24913	0	com.apple.mdworker.shared.0F000000-0400-0000-0000-000000000000
+-	0	com.apple.facebook.xpc
+-	0	com.apple.contacts.donation-agent
+-	0	com.apple.ServicesUIAgent
+-	0	com.microsoft.update.agent
+-	0	com.apple.ctkbind
+-	0	com.apple.mediastream.mstreamd
+-	0	com.apple.alf.useragent
+16485	0	com.apple.Terminal.4832
+90544	0	com.tencent.wemeet.WemeetLauncher.7412
+14077	-9	com.apple.tccd
+14716	-9	com.apple.replayd
+39668	0	com.apple.coreservices.uiagent
+-	0	com.apple.icloud.searchpartyuseragent
+-	0	com.apple.AccessibilityVisualsAgent
+-	0	com.apple.installd.user
+68635	-9	com.apple.akd
+-	-9	com.apple.CallHistoryPluginHelper
+-	0	com.dwarvesv.LauncherApplication
+447	0	com.apple.storeaccountd
+-	0	com.apple.AddressBook.AssistantService
+-	0	com.apple.PIPAgent
+-	0	com.apple.mbfloagent
+88146	-9	com.apple.printtool.agent
+68636	-9	com.apple.nsurlstoraged
+-	-9	com.apple.askpermissiond
+5228	0	com.apple.USBAgent
+-	0	com.microsoft.VSCode.ShipIt
+-	0	com.apple.ssinvitationagent
+14303	0	com.apple.webinspectord
+-	0	com.apple.speech.synthesisserver
+-	0	com.apple.WebKit.PluginAgent
+-	0	com.apple.DiagnosticReportCleanup.plist
+36728	0	com.apple.storeuid
+-	-9	com.apple.rcd
+-	0	com.apple.printuitool.agent
+-	0	com.apple.NVMeAgent
+-	0	com.apple.speech.speechdatainstallerd
+-	0	com.apple.AOSHeartbeat
+443	0	com.apple.CryptoTokenKit.ahp.agent
+-	0	com.apple.SafariNotificationAgent
+-	0	com.apple.coredatad
+3524	0	FN2V63AD2J.com.tencent.ScreenCapture2.7428
+25017	0	com.apple.remindd
+-	0	com.apple.appsleep
+418	0	com.apple.coreservices.useractivityd
+-	0	com.apple.screencaptureui.agent
+24910	0	com.apple.mdworker.shared.05000000-0700-0000-0000-000000000000
+-	0	com.apple.cvmsCompAgent3600_x86_64_1
+-	0	com.apple.ContainerRepairAgent
+-	0	com.apple.netauth.user.auth
+50454	-9	com.apple.siri-distributed-evaluation
+371	0	com.apple.ViewBridgeAuxiliary
+-	0	com.apple.mbbackgrounduseragent
+4691	0	com.valvesoftware.steam.ipctool
+24866	0	com.apple.mdworker.shared.08000000-0400-0000-0000-000000000000
+24906	0	com.apple.mdworker.shared.0A000000-0100-0000-0000-000000000000
+-	0	com.apple.cvmsCompAgent_x86_64
+352	0	com.apple.lsd
+14508	-9	com.apple.siri.context.service
+-	0	com.apple.weibo.xpc
+14140	-9	com.apple.pluginkit.pkd
+24907	0	com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000
+-	0	com.apple.security.XPCTimeStampingService
+14217	-9	com.apple.cache_delete
+380	0	com.apple.AMPDeviceDiscoveryAgent
+-	0	com.apple.accessibility.dfrhud
+-	0	com.apple.CallHistorySyncHelper
+50413	-9	com.apple.colorsync.useragent
+452	0	com.apple.parsecd
+50106	1	com.apple.Dock.agent
+454	0	com.apple.parsec-fbf
+14163	-9	com.apple.dmd
+14514	-9	com.apple.transparencyd
+-	-9	com.apple.AppSSOAgent
+-	0	com.apple.mbuseragent
+14083	-9	com.apple.security.cloudkeychainproxy3
+346	0	com.apple.UserEventAgent-Aqua
+14165	-9	com.apple.followupd
+-	0	com.apple.ReportPanic
+-	0	com.xunlei.Thunder.ThunderHelper
+396	0	com.apple.identityservicesd
+-	-9	com.apple.telephonyutilities.callservicesd
+-	0	com.apple.DwellControl
+4860	0	com.apple.security.DiskUnmountWatcher
+14149	-9	com.apple.CoreLocationAgent
+14511	-9	com.apple.SecureBackupDaemon
+-	0	com.apple.security.agent
+-	0	com.apple.cfnetwork.AuthBrokerAgent
+436	0	com.apple.cloudpaird
+542	0	com.apple.storedownloadd
+-	0	com.apple.SpacesTouchBarAgent.app
+55180	-9	com.apple.coreparsec.silhouette
+378	0	com.apple.coreservices.sharedfilelistd
+364	0	com.apple.pboard
+14254	0	com.apple.nowplayingtouchui
+-	0	com.apple.MobileAccessoryUpdater.fudHelperAgent
+-	0	com.apple.reversetemplated
+50387	-9	com.apple.SafariCloudHistoryPushAgent
+-	0	com.apple.AskPermissionUI
+-	0	com.apple.thermaltrap
+389	0	com.apple.rapportd
+9544	-9	com.apple.SoftwareUpdateNotificationManager
+-	0	com.apple.accounts.dom
+-	0	com.apple.metadata.mdflagwriter
+-	-9	com.apple.DictionaryServiceHelper
+84757	0	com.apple.speech.speechsynthesisd
+-	0	com.apple.mdworker.shared
+24911	0	com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000
+-	0	com.apple.usermanagerhelper
+-	0	com.apple.installandsetup.migrationhelper.user
+-	-9	com.apple.SafeEjectGPUService
+14206	-9	com.apple.imdpersistence.IMDPersistenceAgent
+-	0	com.apple.TrustEvaluationAgent
+24915	0	com.apple.mdworker.shared.04000000-0200-0000-0000-000000000000
+-	0	com.apple.Notes.datastore
+92331	0	com.apple.preference.displays.MirrorDisplays
+14212	-9	com.apple.neagent.878568F8-CCE5-4157-8315-22F20DC8FB0A
+358	0	com.apple.accountsd
+14175	-9	com.apple.cdpd
+68863	-9	com.apple.routined
+-	0	com.apple.KeyboardAccessAgent
+-	0	com.apple.storelegacy
+14057	-9	com.apple.OSDUIHelper
+50411	-9	com.apple.audio.AudioComponentRegistrar
+682	0	com.apple.AssetCacheLocatorService
+397	0	com.apple.lockoutagent
+68657	-9	com.apple.locationmenu
+-	0	com.apple.videosubscriptionsd
+14121	-9	com.apple.pbs
+401	0	com.apple.notificationcenterui.agent
+81828	-9	com.apple.protectedcloudstorage.protectedcloudkeysyncing
+426	0	com.apple.imklaunchagent
+14714	-9	com.apple.FileProvider
+-	0	com.apple.imcore.imtransferagent
+-	0	com.apple.btsa
+429	0	com.apple.icdd
+14510	-9	com.apple.EscrowSecurityAlert
+653	0	com.apple.metadata.mdwrite
+-	0	com.apple.loginwindow.LWWeeklyMessageTracer
+14202	-9	com.apple.CalendarAgent
+-	0	com.apple.securityuploadd
+-	0	com.apple.RapportUIAgent
+-	-9	com.apple.siriknowledged
+27428	0	com.apple.powerchime
+433	0	com.apple.sharingd
+-	0	com.apple.iCloudUserNotificationsd
+-	0	com.apple.storeassetd
+470	0	com.apple.familycircled
+444	0	com.mediaatelier.CheatSheet.4532
+-	0	com.apple.FontRegistryUIAgent
+97556	-9	com.apple.TextInputSwitcher
+55186	-9	com.apple.AMPArtworkAgent
+411	0	com.apple.imagent
+-	0	com.apple.sidecar-relay
+14196	-9	com.apple.photoanalysisd
+-	0	com.apple.syncservices.SyncServer
+27604	0	com.apple.imautomatichistorydeletionagent
+357	0	com.apple.SystemUIServer.agent
+-	0	com.apple.ATS.FontValidatorConduit
+78066	-9	com.apple.talagent
+488	0	com.apple.suggestd
+-	0	com.tencent.Lemon.4536
+-	0	com.apple.navd
+-	0	com.apple.RemoteDesktop.agent
+-	-9	com.apple.amsaccountsd
+-	0	com.apple.VoiceOver
+11721	0	com.qiuyuzhou.ShadowsocksX-NG.LaunchHelper
+-	0	com.apple.AssistiveControl
+-	-9	com.apple.icloud.fmfd
+14079	-9	com.apple.secd
+97557	-9	com.apple.hiservices-xpcservice
+55184	-9	com.apple.BKAgentService
+-	0	com.apple.cvmsCompAgent_x86_64_1
+-	0	com.apple.tencentweibo.xpc
+-	0	com.apple.FCiCloudPrefUpdater
+14208	-9	com.apple.assistantd
+89059	-9	com.apple.studentd
+-	0	com.apple.FollowUpUI
+-	0	com.apple.videoconference.camera
+-	0	com.apple.corespotlightservice
+-	0	com.apple.uikitsystemapp
+11970	0	com.wangjinwei.baacloud.7060
+392	0	com.apple.controlstrip
+-	0	com.tencent.meeting.7232
+-	0	com.apple.mediaanalysisd
+-	0	com.apple.DiskArbitrationAgent
+-	0	com.apple.exchange.exchangesyncd
+14187	-9	com.apple.scopedbookmarksagent.xpc
+50384	-9	com.apple.ReportCrash
+-	0	com.microsoft.OneDriveStandaloneUpdater
+16439	-9	com.apple.UsageTrackingAgent
+-	0	com.apple.email.maild
+-	0	com.apple.menuextra.battery.helper
+-	0	com.apple.appleseed.seedusaged.postinstall
+50424	-9	com.apple.Maps.mapspushd
+-	0	com.apple.voicememod
+-	0	com.apple.gamed
+-	0	com.apple.STMUIHelper
+14137	-9	com.apple.knowledge-agent
+-	0	com.apple.midiserver
+363	0	com.apple.backgroundtaskmanagementagent
+-	0	com.sangfor.Easyconnect.6904
+-	0	com.apple.mobiledeviceupdater
+-	0	com.apple.helpd
+-	0	com.apple.quicklook.ui.helper
+406	0	com.apple.wifi.WiFiAgent
+-	0	com.apple.screensharing.MessagesAgent
+-	0	com.apple.diskspaced
+618	0	com.apple.passd
+10609	0	com.apple.ChineseTextConverterService.5292
+-	0	com.apple.DictationIM
+14293	0	com.apple.Safari.4244
+-	0	com.apple.mdmclient.agent
+24860	0	com.apple.iCloudHelper
+24912	0	com.apple.mdworker.shared.02000000-0500-0000-0000-000000000000
+-	-9	com.apple.CharacterPicker.FileService
+-	0	com.apple.cvmsCompAgent3425AMD_x86_64
+-	0	com.apple.linkedin.xpc
+-	0	com.apple.security.XPCKeychainSandboxCheck
+-	0	com.apple.mdworker.single
+55183	-9	com.apple.podcasts.PodcastContentService
+24878	0	com.apple.mdworker.shared.03000000-0600-0000-0000-000000000000
+-	0	com.apple.twitter.xpc
+97551	-9	com.apple.CoreAuthentication.agent
+36486	0	com.apple.syncdefaultsd
+-	0	com.apple.sidecar-display-agent
+-	0	com.apple.accessibility.heard
+420	0	com.apple.corespeechd
+-	0	com.apple.scrod
+50386	-9	com.apple.spindump_agent
+-	0	com.apple.AquaAppearanceHelper
+-	0	com.apple.security.keychain-circle-notification
+14191	-9	com.apple.icloud.findmydeviced.findmydevice-user-agent
+-	0	com.google.keystone.user.agent
+-	0	com.apple.ap.adservicesd
+-	0	com.apple.AirPortBaseStationAgent
+-	0	com.apple.proactiveeventtrackerd
+-	0	com.apple.universalaccessd
+-	0	com.apple.accessibility.MotionTrackingAgent
+16517	0	com.apple.TextEdit.4868
+-	0	com.apple.neagent
+50382	-9	com.apple.SafariLaunchAgent
+-	0	com.apple.idsfoundation.IDSRemoteURLConnectionAgent
+-	-9	com.apple.recentsd
+50331	-9	com.apple.WiFiVelocityAgent
+391	0	com.apple.usernoted
+-	0	com.apple.SafariPlugInUpdateNotifier
+-	0	com.apple.AddressBook.abd
+-	0	com.apple.ScreenReaderUIServer
+63670	0	com.sangfor.ECAgentProxy
+50373	-9	com.apple.swcd
+435	0	com.apple.AirPlayUIAgent
+509	0	com.apple.corespotlightd
+-	0	com.apple.netauth.user.gui
+385	0	com.apple.xtyped
+-	0	com.apple.TMHelperAgent
+445	0	com.apple.Spotlight
+905	0	com.apple.appstoreagent
+-	0	com.apple.AMPDevicesAgent
+14261	-9	com.apple.accessibility.mediaaccessibilityd
+-	0	com.apple.cvmsCompAgent3425AMD_x86_64_1
+-	-9	com.apple.mdworker.sizing
+24885	0	com.apple.mdworker.shared.06000000-0600-0000-0000-000000000000
+24880	0	com.apple.mdworker.shared.10000000-0500-0000-0000-000000000000
+-	0	com.apple.SpeechRecognitionCore.brokerd
+-	0	com.apple.metadata.mdbulkimport
+-	0	com.apple.iokit.IOServiceAuthorizeAgent
+24873	0	com.apple.mdworker.shared.0B000000-0700-0000-0000-000000000000
+14106	-9	com.apple.Safari.History
+24914	0	com.apple.mdworker.shared.07000000-0700-0000-0000-000000000000
+-	0	com.apple.cvmsCompAgent3600_x86_64
+-	0	com.apple.CoreRoutine.helperservice
+350	0	com.apple.distnoted.xpc.agent
+14151	-9	com.apple.geod
+lo0: flags=8049<UP,LOOPBACK,RUNNING,MULTICAST> mtu 16384
+	options=1203<RXCSUM,TXCSUM,TXSTATUS,SW_TIMESTAMP>
+	inet 127.0.0.1 netmask 0xff000000 
+	inet6 ::1 prefixlen 128 
+	inet6 fe80::1%lo0 prefixlen 64 scopeid 0x1 
+	nd6 options=201<PERFORMNUD,DAD>
+gif0: flags=8010<POINTOPOINT,MULTICAST> mtu 1280
+stf0: flags=0<> mtu 1280
+en5: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	ether ac:de:48:00:11:22 
+	inet6 fe80::aede:48ff:fe00:1122%en5 prefixlen 64 scopeid 0x4 
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect (100baseTX <full-duplex>)
+	status: active
+ap1: flags=8802<BROADCAST,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether f2:18:98:19:86:a2 
+	media: autoselect
+	status: inactive
+en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether f0:18:98:19:86:a2 
+	inet6 fe80::14ab:7e0d:f3da:6de3%en0 prefixlen 64 secured scopeid 0x6 
+	inet 192.168.1.100 netmask 0xffffff00 broadcast 192.168.1.255
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect
+	status: active
+p2p0: flags=8843<UP,BROADCAST,RUNNING,SIMPLEX,MULTICAST> mtu 2304
+	options=400<CHANNEL_IO>
+	ether 02:18:98:19:86:a2 
+	media: autoselect
+	status: inactive
+awdl0: flags=8943<UP,BROADCAST,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1484
+	options=400<CHANNEL_IO>
+	ether f2:0d:66:b3:c8:46 
+	inet6 fe80::f00d:66ff:feb3:c846%awdl0 prefixlen 64 scopeid 0x8 
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect
+	status: active
+llw0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether f2:0d:66:b3:c8:46 
+	inet6 fe80::f00d:66ff:feb3:c846%llw0 prefixlen 64 scopeid 0x9 
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect
+	status: active
+en1: flags=8963<UP,BROADCAST,SMART,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1500
+	options=460<TSO4,TSO6,CHANNEL_IO>
+	ether 82:fb:e9:c1:08:01 
+	media: autoselect <full-duplex>
+	status: inactive
+en2: flags=8963<UP,BROADCAST,SMART,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1500
+	options=460<TSO4,TSO6,CHANNEL_IO>
+	ether 82:fb:e9:c1:08:00 
+	media: autoselect <full-duplex>
+	status: inactive
+en3: flags=8963<UP,BROADCAST,SMART,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1500
+	options=460<TSO4,TSO6,CHANNEL_IO>
+	ether 82:fb:e9:c1:08:05 
+	media: autoselect <full-duplex>
+	status: inactive
+en4: flags=8963<UP,BROADCAST,SMART,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1500
+	options=460<TSO4,TSO6,CHANNEL_IO>
+	ether 82:fb:e9:c1:08:04 
+	media: autoselect <full-duplex>
+	status: inactive
+bridge0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=63<RXCSUM,TXCSUM,TSO4,TSO6>
+	ether 82:fb:e9:c1:08:01 
+	Configuration:
+		id 0:0:0:0:0:0 priority 0 hellotime 0 fwddelay 0
+		maxage 0 holdcnt 0 proto stp maxaddr 100 timeout 1200
+		root id 0:0:0:0:0:0 priority 0 ifcost 0 port 0
+		ipfilter disabled flags 0x2
+	member: en1 flags=3<LEARNING,DISCOVER>
+	        ifmaxaddr 0 port 10 priority 0 path cost 0
+	member: en2 flags=3<LEARNING,DISCOVER>
+	        ifmaxaddr 0 port 11 priority 0 path cost 0
+	member: en3 flags=3<LEARNING,DISCOVER>
+	        ifmaxaddr 0 port 12 priority 0 path cost 0
+	member: en4 flags=3<LEARNING,DISCOVER>
+	        ifmaxaddr 0 port 13 priority 0 path cost 0
+	nd6 options=201<PERFORMNUD,DAD>
+	media: <unknown type>
+	status: inactive
+utun0: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1380
+	inet6 fe80::785b:eb31:b554:6ddd%utun0 prefixlen 64 scopeid 0xf 
+	nd6 options=201<PERFORMNUD,DAD>
+utun1: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 2000
+	inet6 fe80::6055:4f7b:7774:7ffd%utun1 prefixlen 64 scopeid 0x10 
+	nd6 options=201<PERFORMNUD,DAD>
+Routing tables
+
+Internet:
+Destination        Gateway            Flags        Netif Expire
+default            192.168.1.1        UGSc           en0       
+127                127.0.0.1          UCS            lo0       
+127.0.0.1          127.0.0.1          UH             lo0       
+169.254            link#6             UCS            en0      !
+169.254.240.227    3c:52:82:34:25:ac  UHLSW          en0      !
+192.168.1          link#6             UCS            en0      !
+192.168.1.1/32     link#6             UCS            en0      !
+192.168.1.1        c:d8:6c:2e:2d:ee   UHLWIir        en0   1197
+192.168.1.100/32   link#6             UCS            en0      !
+192.168.1.100      f0:18:98:19:86:a2  UHLWI          lo0       
+224.0.0/4          link#6             UmCS           en0      !
+224.0.0.251        1:0:5e:0:0:fb      UHmLWI         en0       
+239.255.255.250    1:0:5e:7f:ff:fa    UHmLWI         en0       
+255.255.255.255/32 link#6             UCS            en0      !
+
+Internet6:
+Destination                             Gateway                         Flags         Netif Expire
+default                                 fe80::%utun0                    UGcI          utun0       
+default                                 fe80::%utun1                    UGcI          utun1       
+::1                                     ::1                             UHL             lo0       
+fe80::%lo0/64                           fe80::1%lo0                     UcI             lo0       
+fe80::1%lo0                             link#1                          UHLI            lo0       
+fe80::%en5/64                           link#4                          UCI             en5       
+fe80::aede:48ff:fe00:1122%en5           ac:de:48:0:11:22                UHLI            lo0       
+fe80::aede:48ff:fe33:4455%en5           ac:de:48:33:44:55               UHLWIi          en5       
+fe80::%en0/64                           link#6                          UCI             en0       
+fe80::14ab:7e0d:f3da:6de3%en0           f0:18:98:19:86:a2               UHLI            lo0       
+fe80::%awdl0/64                         link#8                          UCI           awdl0       
+fe80::f00d:66ff:feb3:c846%awdl0         f2:d:66:b3:c8:46                UHLI            lo0       
+fe80::%llw0/64                          link#9                          UCI            llw0       
+fe80::f00d:66ff:feb3:c846%llw0          f2:d:66:b3:c8:46                UHLI            lo0       
+fe80::%utun0/64                         fe80::785b:eb31:b554:6ddd%utun0 UcI           utun0       
+fe80::785b:eb31:b554:6ddd%utun0         link#15                         UHLI            lo0       
+fe80::%utun1/64                         fe80::6055:4f7b:7774:7ffd%utun1 UcI           utun1       
+fe80::6055:4f7b:7774:7ffd%utun1         link#16                         UHLI            lo0       
+ff01::%lo0/32                           ::1                             UmCI            lo0       
+ff01::%en5/32                           link#4                          UmCI            en5       
+ff01::%en0/32                           link#6                          UmCI            en0       
+ff01::%awdl0/32                         link#8                          UmCI          awdl0       
+ff01::%llw0/32                          link#9                          UmCI           llw0       
+ff01::%utun0/32                         fe80::785b:eb31:b554:6ddd%utun0 UmCI          utun0       
+ff01::%utun1/32                         fe80::6055:4f7b:7774:7ffd%utun1 UmCI          utun1       
+ff02::%lo0/32                           ::1                             UmCI            lo0       
+ff02::%en5/32                           link#4                          UmCI            en5       
+ff02::%en0/32                           link#6                          UmCI            en0       
+ff02::%awdl0/32                         link#8                          UmCI          awdl0       
+ff02::%llw0/32                          link#9                          UmCI           llw0       
+ff02::%utun0/32                         fe80::785b:eb31:b554:6ddd%utun0 UmCI          utun0       
+ff02::%utun1/32                         fe80::6055:4f7b:7774:7ffd%utun1 UmCI          utun1       
+? (169.254.240.227) at 3c:52:82:34:25:ac on en0 [ethernet]
+? (192.168.1.1) at c:d8:6c:2e:2d:ee on en0 ifscope [ethernet]
+? (192.168.1.100) at f0:18:98:19:86:a2 on en0 ifscope permanent [ethernet]
+? (224.0.0.251) at 1:0:5e:0:0:fb on en0 ifscope permanent [ethernet]
+? (239.255.255.250) at 1:0:5e:7f:ff:fa on en0 ifscope permanent [ethernet]
+  UID   PID  PPID        F CPU PRI NI       SZ    RSS WCHAN     S             ADDR TTY           TIME CMD
+    0 16486 16485     4106   0  31  0  4333576   3444 -      Ss                  0 ttys000    0:00.02 login -pf mac
+  501 16487 16486     4006   0  31  0  4333684   1352 -      S                   0 ttys000    0:00.21 -bash
+    0 25169 16487     4106   0  31  0  4317104   4468 -      S+                  0 ttys000    0:00.03 sudo ps -a -l
+    0 25170 25169     4006   0  31  0  4286156    964 -      R+                  0 ttys000    0:00.00 ps -a -l
